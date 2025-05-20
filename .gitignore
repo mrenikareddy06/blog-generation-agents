@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+llama_env/
+
+# Environment variables
+.env
+
+# Notebooks & checkpoints
+.ipynb_checkpoints/
+
+# Compiled libs
+*.so
+*.bin
+*.pkl
+
+# VSCode config (optional)
+.vscode/
+
+# Mac system files
+.DS_Store
+

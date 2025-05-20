@@ -1,0 +1,7 @@
+llama-index
+llama-index-llms-ollama
+llama-index-agent-openai
+llama-index-program-openai
+llama-index-readers-file
+streamlit
+python-dotenv
